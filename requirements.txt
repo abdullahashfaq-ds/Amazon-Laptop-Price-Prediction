@@ -4,3 +4,5 @@ matplotlib
 seaborn
 pyarrow
 notebook
+scikit-learn
+xgboost
