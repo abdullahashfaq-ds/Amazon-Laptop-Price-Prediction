@@ -1,8 +1,9 @@
-numpy
-pandas
-matplotlib
-seaborn
-pyarrow
-notebook
-scikit-learn
-xgboost
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+pyarrow==17.0.0
+notebook==7.2.2
+scikit-learn==1.4.0
+xgboost==2.1.1
+streamlit==1.38.0
